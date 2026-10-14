@@ -1,0 +1,9 @@
+This repository redistributes the following model, unmodified, for download by the Nobodycam iOS app.
+
+LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions
+Copyright 2021 Samsung Research
+https://github.com/advimman/lama
+Licensed under the Apache License, Version 2.0
+
+Core ML conversion: https://huggingface.co/mlboydaisuke/LaMa-CoreML
+Licensed under the Apache License, Version 2.0
